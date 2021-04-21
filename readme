@@ -1,0 +1,9 @@
+This program takes png picture and creates from it mandelbort or julia sets. It is created with fixed values , so it can't be used with image with different size.
+
+// How to run
+
+* Open terminal in project folder , run `make` command to compile all files and run `./prog`.
+* Check folder you will notice that output.png image appeared.
+* Play with color percentages and coefficients in julia set to get different pictures
+
+// program is written with the help of ppm.c , provided by UFAZ.
